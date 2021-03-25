@@ -7,6 +7,8 @@ enableEmoji = true
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+publishDir = "docs"
+canonifyurls = true
 
 ## Change this two to switch between different language
 languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
