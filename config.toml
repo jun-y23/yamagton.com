@@ -1,5 +1,5 @@
 baseURL = "https://yamagton.com"
-title = "Hugo Theme Fuji"
+title = "Yamagton"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -11,8 +11,8 @@ publishDir = "docs"
 canonifyurls = true
 
 ## Change this two to switch between different language
-languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
-defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl
+languageCode = "ja"  # For RSS, view https://www.rssboard.org/rss-language-codes
+defaultContentLanguage = "ja"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
@@ -33,11 +33,11 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "DSRKafuU" # You can also set author in post front matter individually
+  author = "Yamagto Blog" # You can also set author in post front matter individually
   subTitle = "A minimal Hugo theme."
 
   # Source URL of the website, will appear in the footer
-  sourceURL = "https://github.com/itsme/my_blog"
+  # sourceURL = "https://yamagton.com"
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
@@ -51,21 +51,21 @@ paginate = 10
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
-  showReadTime = false
+  showReadTime = true
 
   # License in the footer
   showLicenseInFooter = false
 
   # License at the end of each post
-  showLicense = true
-  showToc = true
+  showLicense = false
+  showToc = false
 
   # Copyright
   copyrightStartYear = "2020"
 
   # Open Graph & Twitter Card variables
   # You can also set description and images in post front matter individually
-  description = "A minimal Hugo theme with nice theme color."
+  description = "yamagton"
   og = "/img/og.png" # This will use the image called og.png in static/img folder
 
   # Posts shown in homepage
@@ -75,8 +75,8 @@ paginate = 10
   # bgmImageChart = "000000"
 
   # License
-  license = "CC BY-NC-SA 4.0"
-  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+  #license = "CC BY-NC-SA 4.0"
+  #licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
   # Comments
   # utterances, see: https://utteranc.es/
@@ -120,32 +120,20 @@ paginate = 10
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.nav]]
-    name = "Archives"
-    url = "/archives/"
-    weight = 2
+  #[[menu.nav]]
+  #  name = "Archives"
+  #  url = "/archives/"
+  #  weight = 2
   [[menu.nav]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     name = "Search"
     url = "/search/"
-    weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
+    weight = 3
 
-  [[menu.link]]
-    name = "GitHub"
-    url = "https://github.com/dsrkafuu"
-    weight = 1
   [[menu.link]]
     name = "Twitter"
     url = "https://twitter.com/dsrkafuu"
     weight = 2
-  [[menu.link]]
-    name = "bilibili"
-    url = "https://space.bilibili.com/19767474"
-    weight = 3
