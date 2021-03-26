@@ -2,68 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yamagton.com/</loc>
-    <lastmod>2021-03-25T18:49:33+09:00</lastmod>
-  </url><url>
     <loc>https://yamagton.com/post/</loc>
-    <lastmod>2021-03-25T18:49:33+09:00</lastmod>
+    <lastmod>2021-03-26T18:19:02+09:00</lastmod>
   </url><url>
     <loc>https://yamagton.com/post/test/</loc>
-    <lastmod>2021-03-25T18:49:33+09:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/aplayer/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/aplayer-test/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
+    <lastmod>2021-03-26T18:19:02+09:00</lastmod>
   </url><url>
     <loc>https://yamagton.com/tags/test/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
+    <lastmod>2021-03-26T18:19:02+09:00</lastmod>
   </url><url>
-    <loc>https://yamagton.com/tags/css/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/html/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/markdown/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/markdown-syntax/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/themes/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <loc>https://yamagton.com/</loc>
+    <lastmod>2021-03-26T18:19:02+09:00</lastmod>
   </url><url>
     <loc>https://yamagton.com/about/</loc>
     <lastmod>2020-04-11T19:15:32+08:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/math-typesetting/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/cjk/</loc>
-    <lastmod>2018-03-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/cjk-unicode-test/</loc>
-    <lastmod>2018-03-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/tags/wtf/</loc>
-    <lastmod>2017-04-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yamagton.com/post/wtf-article/</loc>
-    <lastmod>2017-04-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yamagton.com/archives/</loc>
   </url><url>
