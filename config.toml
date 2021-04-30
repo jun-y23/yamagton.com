@@ -33,8 +33,8 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "Yamagto Blog" # You can also set author in post front matter individually
-  subTitle = "A minimal Hugo theme."
+  author = "Yamagton Blog" # You can also set author in post front matter individually
+  subTitle = "メモ・メモ・メモ"
 
   # Source URL of the website, will appear in the footer
   # sourceURL = "https://yamagton.com"
