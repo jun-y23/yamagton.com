@@ -1,123 +1,117 @@
 ---
 title: "Jeff Buckley - Mojo Pin"
 date: 2021-03-28T21:10:26+09:00
-draft: true
+draft: false
 tags: ["Jeff Buckley", "Grace"]
 ---
-# $B!ZBPLu!&2r@b![(BJeff Buckley - Mojo Pin  $B!VKbK!$NCm<M4o!W(B
+# 【対訳・解説】 Jeff Buckley - Mojo Pin 「魔法の注射器」
 Jeff Buckley - Mojo Pin
 (Written by Jeff Buckley)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Svo7LZbnUVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 対訳
 
-## $BBPLu(B
-
->[1]
-I'm lying in my bed
-The blanket is warm
-This body will never be safe from harm
-Still feel your hair, black ribbons of coal
-Touch my skin to keep me whole
-$B%Y%C%I$K2#$K$J$C$F$$$k(B
-$BLSI[$,CH$+$$(B
-$BKM$N$+$i$@$ODK$_$+$iF($l$i$l$J$$$1$I(B
-$B$+$i$@$,$^$@3P$($F$$$k$h(B
-$B7/$NH1!"9u$$%j%\%s$N$h$&$J7/$NH1$,(B
-$BH)$K?($l$F!"KM$rK~$?$7$F$/$l$k$N$r(B
+>[1]  
+I'm lying in my bed  
+The blanket is warm  
+This body will never be safe from harm  
+Still feel your hair, black ribbons of coal  
+Touch my skin to keep me whole  
+ベッドに横になっている  
+毛布が暖かい  
+僕のからだは痛みから逃れられないけど  
+からだがまだ覚えているよ  
+君の髪、黒いリボンのような君の髪が  
+肌に触れて、僕を満たしてくれるのを  
 <br>
-[2]
-If only you'd come back to me
-If you laid at my side
-Wouldn't need no mojo pin
-To keep me satisfied
-$B$-$_$,$b$I$C$F$-$5$($9$l$P(B
-$BKM$NNY$K$$$F$/$l$5$($9$l$P(B
-$B9,$;$K$J$k$?$a$N(B
-$BKbK!$NCm<M4o$J$s$F$$$i$J$$$N$K(B
+[2]  
+If only you'd come back to me  
+If you laid at my side  
+Wouldn't need no mojo pin  
+To keep me satisfied  
+きみがもどってきさえすれば  
+僕の隣にいてくれさえすれば  
+幸せになるための  
+魔法の注射器なんていらないのに  
+<br> 
+[3]  
+Don't want to weep for you, don't want to know  
+I'm blind and tortured, the white horses flow  
+The memories fire, the rhythms fall slow  
+Black beauty I love you so  
+君のために泣きたくない、知りたくない  
+自分が盲目で傷付いてるなんて  
+駆ける白馬  
+燃える思い出
+遅くなるリズム  
 <br>
-[3]
-Don't want to weep for you, don't want to know
-I'm blind and tortured, the white horses flow
-The memories fire, the rhythms fall slow
-Black beauty I love you so
-$B7/$N$?$a$K5c$-$?$/$J$$!"CN$j$?$/$J$$(B
-$B<+J,$,LUL\$G=}IU$$$F$k$J$s$F(B
-$B6n$1$kGrGO(B
-$BG3$($k;W$$=P(B
-$BCY$/$J$k%j%:%`(B
+[4]  
+Precious, precious silver and gold and pearls in oyster's flesh  
+Drop down we two to serve and pray to love  
+Born again from the rhythm, screaming down from heaven  
+Ageless, ageless, I'm there in your arms  
+高価な高価な金や銀、貝の実に埋もれる真珠  
+ぼくらふたりは待者となり愛を祈る  
+リズムから生まれ変わり、天から叫ぶ  
+永遠に、永遠に、僕は君の腕の中。  
 <br>
-[4]
-Precious, precious silver and gold and pearls in oyster's flesh
-Drop down we two to serve and pray to love
-Born again from the rhythm, screaming down from heaven
-Ageless, ageless, I'm there in your arms
-$B9b2A$J9b2A$J6b$d6d!"3-$N<B$KKd$b$l$k??<n(B
-$B$\$/$i$U$?$j$OBT<T$H$J$j0&$r5'$k(B
-$B%j%:%`$+$i@8$^$lJQ$o$j!"E7$+$i6+$V(B
-$B1J1s$K!"1J1s$K!"KM$O7/$NOS$NCf!#(B
- <br>
-[5]
-The welts of your scorn, my love, give me more
-Send whips of opinion down my back, give me more
-Well it's you I've waited my life to see
-It's you I've searched so hard for
-$B7ZJN$G$G$-$?$_$_$:<p!"$b$C$H$*$/$l$h(B
-$BGM$j$NJ\$r?6$j2<$m$7$F!"$b$C$H(B
-$B7/$J$s$@!"?M@8$r$+$1$FBT$A$N$>$s$G$$$?$N$O(B
-$B7/$J$s$@$h!"KM$,7l4c$GC5$7$F$$$?$N$O(B
+[5]  
+The welts of your scorn, my love, give me more  
+Send whips of opinion down my back, give me more  
+Well it's you I've waited my life to see  
+It's you I've searched so hard for  
+軽蔑でできたみみず腫、もっとおくれよ  
+罵りの鞭を振り下ろして、もっと  
+君なんだよ、人生をかけて待ちのぞんでいたのは  
+君なんだよ、僕が血眼で探していたのは  
 
+## 解説
+### 曲について
+#### ”Mojo Pin”＝「魔法の注射器」
+まず”Mojo Pin”という言葉の意味ですが、彼はインタビューで
+> 『”Mojo Pin”とはブラックマジック（魔法の力）が備わっているピンのこと。簡単に言うと、君が腕に注射するsmack=heroinでいっぱいの点滴器の婉曲表現だ。』
+と語っています。
+“Mojo”とはブルース用語の一つで、The Doorsの「L.A.Woman」という曲の歌詞にも出てきます。
 
-## $B2r@b(B
-### $B6J$K$D$$$F(B
-#### $B!I(BMojo Pin$B!I!a!VKbK!$NCm<M4o!W(B
-$B$^$:!I(BMojo Pin$B!I$H$$$&8@MU$N0UL#$G$9$,!"H`$O%$%s%?%S%e!<$G(B
->$B!I(BMojo Pin$B!I$H$O%V%i%C%/%^%8%C%/!JKbK!$NNO!K$,Hw$o$C$F$$$k%T%s$N$3$H!#4JC1$K8@$&$H!"7/$,OS$KCm<M$9$k(Bsmack=heroin$B$G$$$C$Q$$$NE@E)4o$NU66JI=8=$@!#!Y(B
+#### 「夢」からの着想
+Jeffはこの曲を「若い黒人の女が足の指の間にヘロインをキメているのを見た」という夢を元に作ったと言っています。
 
-$B$H8l$C$F$$$^$9!#(B
-$B!H(BMojo$B!I$H$O%V%k!<%9MQ8l$N0l$D$G!"(BThe Doors$B$N!V(BL.A.Woman$B!W$H$$$&6J$N2N;l$K$b=P$F$-$^$9!#(B
-http://www.tapthepop.net/machinouta/79605
+### 訳について
+#### “Drop down we two to serve and pray to love”
+Serveは「（ミサでの）侍者を務める」という意味があるので、we two drop down to serve =「侍者になる」としました。
+ 
+#### “Born again from the rhythm screaming down from heaven”
+Screaming以下はthe rhythmを形容している考えました。
+「天から叫んでいるリズム」ということと、教会をイメージできるそれまでの歌詞から「教会で聖歌を聴き、生まれ変わった」と解釈しました。
 
-#### $BL4$+$i$NCeA[(B
-Jeff$B$O$3$N6J$r!V<c$$9u?M$N=w$,B-$N;X$N4V$K%X%m%$%s$r%-%a$F$$$k$N$r8+$?!W$H$$$&L4$r85$K:n$C$?$H8@$C$F$$$^$9!#(B
+### 歌詞について
+##### ・全体の歌詞の流れ
+〈1〉愛する人を失った「僕」が、〈2〉満たされない心をヘロインで埋める。〈3〉幻覚が始まり、〈4〉ボーン・アゲインし、永遠の満足を感じる。〈5〉しかし帰ってはこない愛する人を強く求める。
+というのが簡単な歌詞の流れです。
 
-### $BLu$K$D$$$F(B
-$B!&(B $B!H(BDrop down we two to serve and pray to love$B!I(B
-Serve$B$O!V!J%_%5$G$N!K;x<T$rL3$a$k!W$H$$$&0UL#$,$"$k$N$G!"(Bwe two drop down to serve =$B!V;x<T$K$J$k!W$H$7$^$7$?!#(B
+#### ・キリスト教的価値観を反映する歌詞
+特に〈4〉はキリスト教色の強い歌詞になっています。
+ここでは、ヘロインで得た、愛する人と一体化できた（ような）満足感を、ボーン・アゲインの瞬間で表現していると私は考えています。
+ボーン・アゲインとは
+> 個人の罪が赦され聖霊によって霊的に新たに生まれ変わること。
+                                                                         （Wikipediaより）
 
-$B!&(B $B!H(BBorn again from the rhythm screaming down from heaven$B!I(B
-Screaming$B0J2<$O(Bthe rhythm$B$r7AMF$7$F$$$k9M$($^$7$?!#(B
-$B!VE7$+$i6+$s$G$$$k%j%:%`!W$H$$$&$3$H$H!"652q$r%$%a!<%8$G$-$k$=$l$^$G$N2N;l$+$i!V652q$G@;2N$rD0$-!"@8$^$lJQ$o$C$?!W$H2r<a$7$^$7$?!#(B
-
-
-### $B2N;l$K$D$$$F(B
-##### $BA4BN$N2N;l$NN.$l(B
-$B!R(B1$B!S0&$9$k?M$r<:$C$?!VKM!W$,!"!R(B2$B!SK~$?$5$l$J$$?4$r%X%m%$%s$GKd$a$k!#!R(B3$B!S883P$,;O$^$j!"!R(B4$B!S%\!<%s!&%"%2%$%s$7!"1J1s$NK~B-$r46$8$k!#!R(B5$B!S$7$+$75"$C$F$O$3$J$$0&$9$k?M$r6/$/5a$a$k!#(B
-$B$H$$$&$N$,4JC1$J2N;l$NN.$l$G$9!#(B
-
-#### $B%-%j%9%H65E*2ACM4Q$rH?1G$9$k2N;l(B
-  $BFC$K!R(B4$B!S$O%-%j%9%H65?'$N6/$$2N;l$K$J$C$F$$$^$9!#(B
-$B$3$3$G$O!"%X%m%$%s$GF@$?!"0&$9$k?M$H0lBN2=$G$-$?!J$h$&$J!KK~B-46$r!"%\!<%s!&%"%2%$%s$N=V4V$GI=8=$7$F$$$k$H;d$O9M$($F$$$^$9!#(B
-$B%\!<%s!&%"%2%$%s$H$O(B
->$B8D?M$N:a$,<O$5$l@;Nn$K$h$C$FNnE*$K?7$?$K@8$^$lJQ$o$k$3$H!#(B                             $B!J(BWikipedia$B$h$j!K(B
-
-$B$H$$$&%-%j%9%H65MQ8l$G$9!#(B
-$B%-%j%9%H65$N9M$($G$O!"?M4V$O@8$^$l$J$,$i$K:a$rIi$C$?B8:_$G$9!#$=$3$G!"!V<+$i:a?<$$B8:_$G$"$k$HG'$a!"%$%(%9!&%-%j%9%H$r?.$8$l$P!":a$r<O$5$l!"6l$7$_$N$J$$!"1J1s$KK~$AB-$j$?@$3&!a?@$N9q$K9T$1$k!W$H$5$l$F$$$^$9!#!JDj5A$d@vNiJ}K!$O=!GI$K$h$C$F0c$$$^$9!#!K(B
-$B$D$^$j%\!<%s!&%"%2%$%s$9$l$P!"1J1s$N4n$S$,J]>Z$5$l$k$N$G$9!#(B
-
-$B$^$?H~$7$/51$-B3$1$kJu@P$O@;=q$K$b$h$/EP>l$7$F$*$j!"!V1J1s!"@;$J$k$b$N$N>]D'!W$H9M$($i$l$F$$$^$9!#(B
-$BFC$K!"!I(Bpearl$B!I(B $B??<n$O6b$h$j$b5.=E$@$C$?$=$&$G$9!#!J!VFZ$K??<n!W$H$$$&8A$O@;=q$K=P$F$-$^$9!#!K(B
-
-$B!VH~$7$/8w$j51$/Ju@P!W!"!VAq87$J652q$GLD$j6A$/@;2N!W(B
-
-$B$=$l$i$r;W$$Ib$+$Y$l$P!"0&$9$k?M$NOS$KJq$^$l$F$$$k$h$&$J!"1J1s$K$bA[$($k4n$S$,A[A|$G$-$k$N$G$O$J$$$G$7$g$&$+!#(B
-
-#### $B%^%>%R%:%`E*$J2N;l(B
- $B!I(Bthe welts of your scorn$B!I$H!H(Bwhips of opinion$B!I$r$=$l$>$l!"!V7/$+$i$N7ZJN$G$G$-$?$_$_$:$P$l!JJ\$N@W!K!W!"!V0U8+$H$$$&L>$NJ\!W$HLu$7$F$$$^$9$,!"Hs>o$K<+5TE*$H$$$&$+!"%^%>%R%:%`$N$h$&$JM_5a$,I=$l$F$$$k$H;W$$$^$9!#$3$3$G$O!"<B:]$NJ\$K$h$kFyBNE*$JDK$_$r5a$a$F$$$k$N$G$O$J$/!"7ZJN$d0U8+$+$i$N?4M}E*$J6lDK$r5a$a$F$$$^$9!#(B
-$B%^%>%R%:%`$N@:?@9=B$$O%(!<%j%C%R!&%U%m%`$H$$$&?4M}3X<T$NCx=q!"!X<+M3$+$i$NF.Ah!Y$GJ,@O$5$l$F$$$^$9!#(B
-$B4JC1$K>R2p$9$k$H!"(B
-$B!V%^%>%R%:%`E*$J9TF0$O!"8D?M$,$?$($,$?$$8IFH46$dL5NO46$+$iF($l$k$?$a$K!"@dBPE*$J!"1JB3E*$J2?$+!J9q!"?@!"8D?M$J$I!K$H0lBN2=$9$k$3$H$G0B?4$H8X$j$r<j$KF~$l$h$&$H$9$k;n$_!W(B
-$B$@$H$$$&$N$,%U%m%`$NJ,@O$G$9!#(B
-$B?4$N7j$rKd$a$k$K$O!VKbK!$NCm<M4o!W$KMj$k$7$+$J$$!#(B
-$B$=$s$JCK$N2N$J$N$G$7$g$&!#(B
-
+というキリスト教用語です。
+キリスト教の考えでは、人間は生まれながらに罪を負った存在です。そこで、「自ら罪深い存在であると認め、イエス・キリストを信じれば、罪を赦され、苦しみのない、永遠に満ち足りた世界＝神の国に行ける」とされています。（定義や洗礼方法は宗派によって違います。）
+つまりボーン・アゲインすれば、永遠の喜びが保証されるのです。
+ 
+また美しく輝き続ける宝石は聖書にもよく登場しており、「永遠、聖なるものの象徴」と考えられています。
+特に、”pearl” 真珠は金よりも貴重だったそうです。（「豚に真珠」という諺は聖書に出てきます。）
+ 
+「美しく光り輝く宝石」、「荘厳な教会で鳴り響く聖歌」
+ 
+それらを思い浮かべれば、愛する人の腕に包まれているような、永遠にも想える喜びが想像できるのではないでしょうか。
+#### ・マゾヒズム的な歌詞
+ ”the welts of your scorn”と“whips of opinion”をそれぞれ、「君からの軽蔑でできたみみずばれ（鞭の跡）」、「意見という名の鞭」と訳していますが、非常に自虐的というか、マゾヒズムのような欲求が表れていると思います。ここでは、実際の鞭による肉体的な痛みを求めているのではなく、軽蔑や意見からの心理的な苦痛を求めています。
+マゾヒズムの精神構造はエーリッヒ・フロムという心理学者の著書、『自由からの闘争』で分析されています。
+簡単に紹介すると、
+「マゾヒズム的な行動は、個人がたえがたい孤独感や無力感から逃れるために、絶対的な、永続的な何か（国、神、個人など）と一体化することで安心と誇りを手に入れようとする試み」
+だというのがフロムの分析です。
+心の穴を埋めるには「魔法の注射器」に頼るしかない。
+そんな男の歌なのでしょう。
