@@ -2,7 +2,7 @@
 title: "Jeff Buckley - Mojo Pin"
 date: 2021-03-28T21:10:26+09:00
 draft: false
-tags: ["Jeff Buckley", "Grace"]
+tags: ["JeffBuckley", "Grace"]
 ---
 # 【対訳・解説】 Jeff Buckley - Mojo Pin 「魔法の注射器」
 Jeff Buckley - Mojo Pin
