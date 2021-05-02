@@ -71,9 +71,10 @@ It's you I've searched so hard for
 #### ”Mojo Pin”＝「魔法の注射器」
 まず”Mojo Pin”という言葉の意味ですが、彼はインタビューで
 > 『”Mojo Pin”とはブラックマジック（魔法の力）が備わっているピンのこと。簡単に言うと、君が腕に注射するsmack=heroinでいっぱいの点滴器の婉曲表現だ。』
+
 と語っています。
 “Mojo”とはブルース用語の一つで、The Doorsの「L.A.Woman」という曲の歌詞にも出てきます。
-
+http://www.tapthepop.net/machinouta/79605
 #### 「夢」からの着想
 Jeffはこの曲を「若い黒人の女が足の指の間にヘロインをキメているのを見た」という夢を元に作ったと言っています。
 
