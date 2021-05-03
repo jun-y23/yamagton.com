@@ -1,10 +1,9 @@
 ---
-title: "Jeff Buckley - Mojo Pin"
+title: "【対訳・解説】 Jeff Buckley - Mojo Pin 「魔法の注射器」"
 date: 2021-03-28T21:10:26+09:00
 draft: false
-tags: ["JeffBuckley", "Grace"]
+tags: ["JeffBuckley", "Grace", "対訳", "和訳"]
 ---
-# 【対訳・解説】 Jeff Buckley - Mojo Pin 「魔法の注射器」
 Jeff Buckley - Mojo Pin
 (Written by Jeff Buckley)
 
