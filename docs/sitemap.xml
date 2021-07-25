@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yamagton.com/post/</loc>
+    <lastmod>2021-07-26T04:41:07+09:00</lastmod>
+  </url><url>
+    <loc>https://yamagton.com/</loc>
+    <lastmod>2021-07-26T04:41:07+09:00</lastmod>
+  </url><url>
+    <loc>https://yamagton.com/post/first-post/</loc>
+    <lastmod>2021-07-26T04:41:07+09:00</lastmod>
+  </url><url>
     <loc>https://yamagton.com/about/</loc>
     <lastmod>2020-04-11T19:15:32+08:00</lastmod>
   </url><url>
     <loc>https://yamagton.com/archives/</loc>
   </url><url>
     <loc>https://yamagton.com/search/</loc>
-  </url><url>
-    <loc>https://yamagton.com/</loc>
   </url>
 </urlset>
